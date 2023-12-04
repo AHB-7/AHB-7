@@ -1,5 +1,21 @@
-1### Hi there 👋
-My Name is Alan Brim, and I'm 27 years old. I currently live in Norway and study as a front-end developer. I love ❤️ to create and design, and my passion is to get hard tasks to solve. 
+# Hi 👋👋👋
+
+<p align="center">
+  <img src="./assets/Readme-1.gif">
+</p>
+
+## Who is me ?
+
+<p align="center">My name is Alan and I'm 27 years old.
+I'm a kurdish man <img src="./assets/kurdish.gif" width="15px">. I currently live in Norway <img src="./assets/norway.gif" width="15px"> which is where I call home 🏠. <a href="https://www.alanbrim.no/">Find more about me</a>
+</p>
+
+
+<ul>
+<li>I'm a junior front-end developer 👩‍💻</li>
+<li>I love ❤️ to create and design 🎨, and my passion is to get hard tasks 🏋️‍♂️🧩and solve them.</li>
+<li>I adore cats 🐱 + 🖤, and painting 🎨</li>
+</ul>
 
 <picture>
   <source
@@ -12,4 +28,3 @@ My Name is Alan Brim, and I'm 27 years old. I currently live in Norway and study
   />
   <img src="https://github-readme-stats.vercel.app/api?username=AHB-7&show_icons=true" />
 </picture>
-
