@@ -1,7 +1,7 @@
-# Hi 👋👋👋
+# Hi <img src="./assets/wave.gif" width="25px"><img src="./assets/wave.gif" width="25px">
 
 <p align="center">
-  <img src="./assets/Readme-1.gif">
+  <img src="./assets/wesite-develoer.gif" width="100%" height="100px" style="object-fit: cover;  object-position: center calc(50% + 30px);"  alt="Website Developer">
 </p>
 
 ## Who is me ?
@@ -9,7 +9,6 @@
 <p align="center">My name is Alan and I'm 27 years old.
 I'm a kurdish man <img src="./assets/kurdish.gif" width="15px">. I currently live in Norway <img src="./assets/norway.gif" width="15px"> which is where I call home 🏠. <a href="https://www.alanbrim.no/">Find more about me</a>
 </p>
-
 
 <ul>
 <li>I'm a junior front-end developer 👩‍💻</li>
