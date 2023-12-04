@@ -5,7 +5,7 @@ My Name is Alan Brim, and I'm 27 years old. I currently live in Norway and study
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AHB-7"
-    media="(prefers-color-scheme: dark)"
+    media="prefers-color-scheme: dark"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AHB-7"
