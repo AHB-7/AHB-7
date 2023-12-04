@@ -1,7 +1,7 @@
 # Hi <img src="./assets/wave.gif" width="25px"><img src="./assets/wave.gif" width="25px">
 
 <p align="center">
-  <img src="./assets/wesite-develoer.gif" width="100%" height="100px" style="object-fit: cover;object-position: center calc(50% + 30px);"  alt="Website Developer">
+  <img src="./assets/wesite-develoer.gif" width="100%" height="100%"   alt="Website Developer">
 </p>
 
 ## Who is me ?
