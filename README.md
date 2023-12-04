@@ -4,12 +4,13 @@ My Name is Alan Brim, and I'm 27 years old. I currently live in Norway and study
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AHB-7-color-scheme:dark"
-    media="prefers-color-scheme: dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=AHB-7&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AHB-7"
+    srcset="https://github-readme-stats.vercel.app/api?username=AHB-7&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=AHB-7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AHB-7&show_icons=true" />
 </picture>
+
