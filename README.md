@@ -1,4 +1,4 @@
-# Hi, There I'm Alan <img src="./assets/wave.gif" width="25px"><img src="./assets/wave.gif" width="25px">
+# Hi, There I'm Alan <img src="./assets/wave.gif" width="25px"><img src="./assets/wave.gif" width="25px"> !!
 
 <div align="center">
 
@@ -71,3 +71,9 @@ These projects were produced during my studies this year at Noroff, marking my e
 <li>Photography </li>
 
 </ul>
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{AHB-7}/count.svg)
+
+</div>
