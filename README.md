@@ -73,6 +73,10 @@ These projects were produced during my studies this year at Noroff, marking my e
 </ul>
 
 <div align="center">
+</br>
+</br>
+
+VISITORS COUNTER
 
 ![Visitor Count](https://profile-counter.glitch.me/{AHB-7}/count.svg)
 
