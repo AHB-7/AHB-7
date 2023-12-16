@@ -16,14 +16,14 @@
 
 ## Who is Alan?
 
-<p align="center" >I’m Alan, 27 years old, originally Kurdish <img src="./assets/kurdish.gif" width="15px"> from Syria. I have a deep passion for various things. Currently, I live on the coast side of Norway <img src="./assets/norway.gif" width="15px">. <a href="https://www.alanbrim.no/">Find more about me</a>
+<p align="center" >I’m Alan, 27 years old, originally Kurdish <img src="./assets/kurdish.gif" width="15px"> from Syria. I have a deep passion for various things. Currently, I live on the west coast side of Norway <img src="./assets/norway.gif" width="15px">. <a href="https://www.alanbrim.no/">Find more about me</a>
 </p>
 
 ### I'm
 
 <ul>
 <li>a junior front-end developer studing at Noroff 👩‍💻</li>
-<li>a lover of art 🎨 and hard work 🏋️‍♂️🧩.</li>
+<li>an art lover 🎨 and hard work 🏋️‍♂️🧩.</li>
 </ul>
 
 ## Skills
