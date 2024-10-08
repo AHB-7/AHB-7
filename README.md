@@ -8,7 +8,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-brim-979606279/)[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&labelColor=6FDA44&logoColor=white&link=https://www.upwork.com/nx/find-work/best-matches)](https://www.upwork.com/nx/find-work/best-matches)[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/brimallan/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-brim-979606279/)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&labelColor=6FDA44&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/brimallan/)
 
 #### Email: ab@alanbrim.no
 
@@ -16,15 +18,15 @@
 
 ## Who is Alan?
 
-<p align="center" >I’m Alan, 27 years old, originally Kurdish <img src="./assets/kurdish.gif" width="15px"> from Syria. I have a deep passion for various things. Currently, I live on the west coast side of Norway <img src="./assets/norway.gif" width="15px">. <a href="https://www.alanbrim.no/">Find more about me</a>
+<p align="center">
+I’m Alan, 27 years old, originally Kurdish <img src="./assets/kurdish.gif" width="15px"> from Syria. I have a deep passion for various things. Currently, I live on the west coast of Norway <img src="./assets/norway.gif" width="15px">. 
+<a href="https://www.alanbrim.no/">Find more about me</a>
 </p>
 
 ### I'm
 
-<ul>
-<li>a junior front-end developer studing at Noroff 👩‍💻</li>
-<li>an art lover 🎨 and hard work 🏋️‍♂️🧩.</li>
-</ul>
+- a junior front-end developer studying at Noroff 👩‍💻
+- an art lover 🎨 and a hard worker 🏋️‍♂️🧩
 
 ## Skills
 
@@ -49,34 +51,37 @@
    [View on GitHub](https://github.com/AHB-7/blog.git)
 
 2. **Community Science Museum (Website)**  
-   A child and teacher-friendly website design for a science museum.  
+   A child and teacher-friendly website designed for a science museum.  
    [View on GitHub](https://github.com/AHB-7/Community-Science-Museum.git)
 
-3. **Game Hub (Online Store)**  
-   An e-commerce platform for buying and selling games.  
-   [View on GitHub](https://github.com/AHB-7/Game-Hub-01.git)
+3. **E-Com with React and TypeScript (Online Store)**  
+   An e-commerce platform built using React and TypeScript.  
+   [View on GitHub](https://github.com/AHB-7/e-com.git)
 
-These projects were produced during my studies this year at Noroff, marking my entry into the world of front-end development. Each project utilized HTML, CSS, and JavaScript, offering me a hands-on experience in these technologies.
+4. **Tarbush (Restaurant Website)**  
+   A restaurant website in Trondheim, Norway.  
+   [View on GitHub](https://github.com/AHB-7/tarbush)
 
-<p align="center"> " A jewelry store will <strong> SOON</strong> be added to the collection. " <p>
+5. **Auction Website**  
+   An auction website where users can buy and sell products.  
+   [View on GitHub](https://github.com/AHB-7/auctionIt)
 
-## - My passions
+These projects were produced during my studies at Noroff, marking my entry into the world of front-end development. Each project utilized HTML, CSS, JavaScript, TypeScript, React, and other technologies, giving me hands-on experience.
 
-<ul>
-<li>I adore cuddling with my cat 🐱. </li>
-<li>Painting 🎨</li>
-<li>Gaming  🕹️</li>
-<li>Reading  📚</li>
-<li>Movies </li>
-<li>Photography </li>
+## My Passions
 
-</ul>
+- I adore cuddling with my cat 🐱
+- Painting 🎨
+- Gaming 🕹️
+- Reading 📚
+- Movies 🎬
+- Photography 📷
 
 <div align="center">
 </br>
 </br>
 
-VISITORS COUNTER
+### VISITORS COUNTER
 
 ![Visitor Count](https://profile-counter.glitch.me/{AHB-7}/count.svg)
 
