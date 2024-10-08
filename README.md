@@ -1,4 +1,4 @@
-# Hi, There I'm Alan <img src="./assets/wave.gif" width="25px"><img src="./assets/wave.gif" width="25px"> !!
+# Hi, There I'm Alan <img src="./assets/wave.gif" width="25px"> !!
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&labelColor=6FDA44&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/brimallan/)
 
-#### Email: ab@alanbrim.no
+#### Email: ab@kodee.no
 
 </div>
 
@@ -20,7 +20,10 @@
 
 <p align="center">
 I’m Alan, 27 years old, originally Kurdish <img src="./assets/kurdish.gif" width="15px"> from Syria. I have a deep passion for various things. Currently, I live on the west coast of Norway <img src="./assets/norway.gif" width="15px">. 
-<a href="https://www.alanbrim.no/">Find more about me</a>
+<a href="https://www.kodee.no/">Find more about me</a>
+</p>
+<p>
+If you are interested in my work and want me to create the front-end of your company, please visit <a href="https://kodee.no">kodee.no</a>.
 </p>
 
 ### I'm
