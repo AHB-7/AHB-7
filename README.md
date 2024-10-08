@@ -4,12 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=24&pause=1000&color=BDFFFC&center=false&vCenter=true&random=false&width=319&lines=HAPPY+TO+SEE+YOU+HERE+!)](https://git.io/typing-svg)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AHB-7&theme=dark)](https://git.io/streak-stats)
+
+
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-brim-979606279/)
-[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&labelColor=6FDA44&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-brim-979606279/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kodeegram/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/brimallan/)
 
 #### Email: ab@kodee.no
@@ -35,16 +39,21 @@ If you are interested in my work and want me to create the front-end of your com
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,react,typescript,nextjs,html,css,figma,supabase" />
+
+
+</br>
+
+
+
+</br>
+
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHB-7&layout=compact&bg_color=191411&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
+</br>
 </div>
 
 ## Latest Projects
