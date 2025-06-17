@@ -16,9 +16,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kodeegram/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/brimallan/)
 
-#### Email: ab@kodee.no
-#### ab.kodde.no
-
+📧 **Email:** [ab@kodee.no](mailto:ab@kodee.no)  
+🔗 **Website:** [ab.kodee.no](https://ab.kodee.no)
 </div>
 
 ## Who is Alan?
